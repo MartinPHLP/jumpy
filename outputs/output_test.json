@@ -1,0 +1,196 @@
+{
+    "medias": {
+        "media0": {
+            "id": "17875373825840994",
+            "comments": {
+                "0": {
+                    "timestamp": "2023-03-18T02:03:15+0000",
+                    "text": "Tellement t'es beau gosse j'ai r\u00e9install\u00e9 insta juste pour comment\u00e9 bibou",
+                    "id": "17986659046924814",
+                    "sentiment": "Positive sentiment."
+                },
+                "1": {
+                    "timestamp": "2023-03-17T17:36:33+0000",
+                    "text": "Ok i pull up la enft",
+                    "id": "17947449419422689",
+                    "sentiment": "Neutral."
+                },
+                "2": {
+                    "timestamp": "2023-03-17T16:54:46+0000",
+                    "text": "Je ressens un certain d\u00e9sir charnel \u2764\ufe0f\u200d\ud83d\udd25\ud83d\udc3c",
+                    "id": "17978344763087328",
+                    "sentiment": "Positive."
+                },
+                "3": {
+                    "timestamp": "2023-03-17T16:10:38+0000",
+                    "text": "Putain \ud83d\ude0d",
+                    "id": "18029156533474999",
+                    "sentiment": "Positive."
+                },
+                "4": {
+                    "timestamp": "2023-03-17T16:00:39+0000",
+                    "text": "Mama je suis amoureux \ud83d\ude0d\ud83d\ude0d",
+                    "id": "18034718956455207",
+                    "sentiment": "Positive."
+                },
+                "5": {
+                    "timestamp": "2023-03-17T15:59:10+0000",
+                    "text": "T\u2019es une star \ud83e\udee0\u2728",
+                    "id": "17948065103405436",
+                    "sentiment": "Positive sentiment."
+                },
+                "6": {
+                    "timestamp": "2023-03-17T15:53:50+0000",
+                    "text": "Mais il est si beau \ud83d\ude0d",
+                    "id": "17902060166683293",
+                    "sentiment": "Positive."
+                }
+            },
+            "media_sentiment": "Comments about physical appearance and attraction."
+        },
+        "media1": {
+            "id": "17962039757327123",
+            "comments": {
+                "0": {
+                    "timestamp": "2023-01-24T21:56:01+0000",
+                    "text": "Le mec est soin comme d\u2019hab \ud83d\udd25",
+                    "id": "18006614785559446",
+                    "sentiment": "Positive."
+                },
+                "1": {
+                    "timestamp": "2023-01-24T21:41:10+0000",
+                    "text": "\ud83e\udd24",
+                    "id": "18049506826390560",
+                    "sentiment": "Desire or craving."
+                },
+                "2": {
+                    "timestamp": "2023-01-24T21:41:09+0000",
+                    "text": "POLOLO CE BOGOSS SEIGNEUR JE M'EVANOUIS",
+                    "id": "17955886397363439",
+                    "sentiment": "Positive sentiment."
+                },
+                "3": {
+                    "timestamp": "2023-01-24T21:01:06+0000",
+                    "text": "Ohh le bgggggg",
+                    "id": "17940079298594778",
+                    "sentiment": "Positive."
+                },
+                "4": {
+                    "timestamp": "2023-01-24T18:42:28+0000",
+                    "text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+                    "id": "17990210344703209",
+                    "sentiment": "Positive."
+                },
+                "5": {
+                    "timestamp": "2023-01-24T17:55:08+0000",
+                    "text": "O M G",
+                    "id": "17934645374614796",
+                    "sentiment": "Excitement/Amazement."
+                },
+                "6": {
+                    "timestamp": "2023-01-24T17:20:00+0000",
+                    "text": "\ud83d\udd25\ud83d\udd25",
+                    "id": "17965717667036368",
+                    "sentiment": "Positive/Excited."
+                },
+                "7": {
+                    "timestamp": "2023-01-24T17:14:27+0000",
+                    "text": "\ud83d\ude0d",
+                    "id": "17871419687828978",
+                    "sentiment": "Positive."
+                }
+            },
+            "media_sentiment": "Admiration for a good-looking man."
+        },
+        "media2": {
+            "id": "18231466522081650",
+            "comments": {
+                "0": {
+                    "timestamp": "2023-01-14T12:19:09+0000",
+                    "text": "Quelle classe",
+                    "id": "18044102053396035",
+                    "sentiment": "Positive sentiment."
+                },
+                "1": {
+                    "timestamp": "2023-01-13T22:02:21+0000",
+                    "text": "Tiens tiens tiens",
+                    "id": "17936714660481105",
+                    "sentiment": "Neutral."
+                }
+            },
+            "media_sentiment": "Positive feedback."
+        },
+        "media3": {
+            "id": "17978992849729513",
+            "comments": {
+                "0": {
+                    "timestamp": "2022-10-08T19:55:58+0000",
+                    "text": "Mais quel bg ce mec, je sais m\u00eame plus quel est mon orientation",
+                    "id": "18322330780020553",
+                    "sentiment": "Positive sentiment."
+                },
+                "1": {
+                    "timestamp": "2022-10-08T19:37:34+0000",
+                    "text": "Mais c'est mes lunettes polala",
+                    "id": "17959652195008835",
+                    "sentiment": "Positive sentiment."
+                },
+                "2": {
+                    "timestamp": "2022-10-08T17:46:03+0000",
+                    "text": "Beau gosse va\ud83d\ude0d",
+                    "id": "17922915029599875",
+                    "sentiment": "Positive."
+                },
+                "3": {
+                    "timestamp": "2022-10-08T17:16:18+0000",
+                    "text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+                    "id": "18225515767155234",
+                    "sentiment": "Positive."
+                },
+                "4": {
+                    "timestamp": "2022-10-08T16:25:15+0000",
+                    "text": "\u00e7a annonce un nouvel album s\u00e9v\u00e8re \ud83d\udce3",
+                    "id": "17998609642481767",
+                    "sentiment": "Positive."
+                },
+                "5": {
+                    "timestamp": "2022-10-08T16:12:40+0000",
+                    "text": "frais",
+                    "id": "17941623113374020",
+                    "sentiment": "Positive."
+                }
+            },
+            "media_sentiment": "Physical appearance, glasses, admiration, excitement for new album, freshness."
+        },
+        "media4": {
+            "id": "17944033664137679",
+            "comments": {
+                "0": {
+                    "timestamp": "2023-04-03T14:52:42+0000",
+                    "text": "bof...",
+                    "id": "17936134409636532",
+                    "sentiment": "Neutral."
+                },
+                "1": {
+                    "timestamp": "2022-07-17T19:43:50+0000",
+                    "text": "Ziak c'est toi ?",
+                    "id": "18206981083088454",
+                    "sentiment": "Neutral."
+                }
+            },
+            "media_sentiment": "Skepticism and suspicion."
+        },
+        "media5": {
+            "id": "17856440887091993",
+            "comments": {
+                "0": {
+                    "timestamp": "2016-12-28T23:52:33+0000",
+                    "text": "I'm feeling this!",
+                    "id": "17868046816035800",
+                    "sentiment": "Positive."
+                }
+            },
+            "media_sentiment": "Positive feedback."
+        }
+    }
+}
